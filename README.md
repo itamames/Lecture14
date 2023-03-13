@@ -384,8 +384,11 @@ Bad when K is much larger than N
 * Wasted space; wasted time during linear O(K) pass
 
 ## RadixSort
+Radix sort is an integer sorting algorithm that sorts data with integer keys by grouping the keys by individual digits that share the same significant position and value (place value). Radix sort uses counting sort as a subroutine to sort an array of numbers. 
 
-Main Idea:
+Because integers can be used to represent strings (by hashing the strings to integers), radix sort works on data types other than just integers. Because radix sort is not comparison based, it is not bounded by Ω(nlogn) for running time — in fact, radix sort can perform in linear time.
+
+### Main Idea:
 
 * Use the Bucket sort on one digit at a time
 * Number of buckets = radix
