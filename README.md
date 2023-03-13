@@ -247,7 +247,7 @@ Step Three:
 
 ![Quick sort 2](images/QuickSort5.png)
 
-Step 4: Repeat
+Step 4: Apply partioning algorithm.
 
 Example:
 
