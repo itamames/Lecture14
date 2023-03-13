@@ -388,6 +388,8 @@ Radix sort is an integer sorting algorithm that sorts data with integer keys by 
 
 Because integers can be used to represent strings (by hashing the strings to integers), radix sort works on data types other than just integers. Because radix sort is not comparison based, it is not bounded by Ω(nlogn) for running time — in fact, radix sort can perform in linear time.
 
+![radix sort](images/radixsort0.png)
+
 ### Main Idea:
 
 * Use the Bucket sort on one digit at a time
