@@ -342,7 +342,7 @@ T(N) = aT(N/b)  + O(N<sup>d</sup>);
 
 * a is the number of subproblems
 * N/b is the size of each subproblem
-* Nd is the “work done” to prepare the subproblems and assemble/combine the subresults
+* N<sup>d</sup> is the “work done” to prepare the subproblems and assemble/combine the subresults
 
 Then:
 * T(N) is O(N<sup>d</sup>); 	if a < b<sup>d</sup> 
