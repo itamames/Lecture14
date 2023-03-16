@@ -148,7 +148,7 @@ Recall that we have assumed n = 2k. The analysis can be refined to handle cases 
 
 See Java Code of MergeSort in:
 
-http://users.cis.fiu.edu/~weiss/dsj2/code/Sort.java
+https://users.cis.fiu.edu/~weiss/dsaajava3/code/Sort.java
 
 (Prof. Mark Weiss)
 
@@ -310,7 +310,7 @@ Note: Could also use a cutoff for Mergesort
 
 See Java Code of QuickSort in:
 
-http://users.cis.fiu.edu/~weiss/dsj2/code/Sort.java
+https://users.cis.fiu.edu/~weiss/dsaajava3/code/Sort.java
 
 (Prof. Mark Weiss)
 
