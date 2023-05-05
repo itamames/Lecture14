@@ -1,4 +1,4 @@
-# Sorting (Part 2)
+# Lecture 14 Sorting (Part 2)
 
 >Note: The most of the information of these lectures was extracted and adapted from Dr Bajuelos and from Weiss’s book, “Data Structures and Algorithm Analysis in Java". They are provided for COP3530 students only. Not to be published or publicly distributed without permission by the publisher. 
 
